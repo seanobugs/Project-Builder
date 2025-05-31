@@ -1,10 +1,6 @@
 # Project-Builder
 A simple Python Tkinter application to quickly generate a standardized folder structure for video editing projects, ensuring organization and consistency. Allows specifying project name, output directory, prepending the current date, and the number of cameras used to create corresponding footage subfolders.
 
-Project Builder - Documentation
-
-This application helps you quickly create a standardized folder structure for video editing projects. This ensures consistency across all your team's projects, making collaboration and organization easier.
-
 How to Use:
 
 1.  **Run the application:** Execute the `folder_creator.py` (or the compiled `.exe` file).
