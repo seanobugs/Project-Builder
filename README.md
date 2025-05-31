@@ -21,27 +21,5 @@ Folder Structure Created:
 
 When you click "Create Structure", the application will generate the following folder structure within your chosen output directory, under a folder named after your project:
 
-Project Name/
-├── 01_Footage/
-│   ├── Camera A/         (Created based on the number of cameras selected)
-│   ├── Camera B/         (Created based on the number of cameras selected)
-│   ├── Camera C/         (Created if 3 cameras are selected)
-│   ├── Camera D/         (Created if 4 cameras are selected)
-│   ├── Audio/
-│   ├── Screen Recordings/
-│   └── Other Footage/
-├── 02_Project_Files/
-│   ├── Timelines/
-    ├── Davinci Resolve Project Files/
-│   ├── After Effects/
-│   └── Other Project Files/
-├── 03_Assets/
-│   ├── Graphics/
-│   ├── Music/
-│   ├── Sound Effects/
-│   ├── Fonts/
-│   └── Stock Footage/
-├── 04_Exports/
-│   ├── WIP/ (Work in Progress)
-│   └── Final/
-└── 05_Archive/ (Optional - for older versions, references, etc.)
+![image](https://github.com/user-attachments/assets/4ecd0b92-ed86-436b-ad42-e2d7a25bc4e7)
+
